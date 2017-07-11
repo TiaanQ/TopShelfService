@@ -1,0 +1,11 @@
+C:\Users\tiaanc\Documents\Visual Studio 2013\Projects\C#\Console\TopShelfService\TopShelfService\bin\Debug\TopShelfService.exe.config
+C:\Users\tiaanc\Documents\Visual Studio 2013\Projects\C#\Console\TopShelfService\TopShelfService\bin\Debug\TopShelfService.exe
+C:\Users\tiaanc\Documents\Visual Studio 2013\Projects\C#\Console\TopShelfService\TopShelfService\bin\Debug\TopShelfService.pdb
+C:\Users\tiaanc\Documents\Visual Studio 2013\Projects\C#\Console\TopShelfService\TopShelfService\bin\Debug\Topshelf.dll
+C:\Users\tiaanc\Documents\Visual Studio 2013\Projects\C#\Console\TopShelfService\TopShelfService\bin\Debug\Topshelf.Log4Net.dll
+C:\Users\tiaanc\Documents\Visual Studio 2013\Projects\C#\Console\TopShelfService\TopShelfService\bin\Debug\Topshelf.NLog.dll
+C:\Users\tiaanc\Documents\Visual Studio 2013\Projects\C#\Console\TopShelfService\TopShelfService\bin\Debug\Topshelf.Rehab.dll
+C:\Users\tiaanc\Documents\Visual Studio 2013\Projects\C#\Console\TopShelfService\TopShelfService\bin\Debug\Topshelf.Supervise.dll
+C:\Users\tiaanc\Documents\Visual Studio 2013\Projects\C#\Console\TopShelfService\TopShelfService\obj\Debug\TopShelfService.exe
+C:\Users\tiaanc\Documents\Visual Studio 2013\Projects\C#\Console\TopShelfService\TopShelfService\obj\Debug\TopShelfService.pdb
+C:\Users\tiaanc\Documents\Visual Studio 2013\Projects\C#\Console\TopShelfService\TopShelfService\obj\Debug\TopShelfService.csprojResolveAssemblyReference.cache
